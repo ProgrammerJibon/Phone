@@ -103,7 +103,6 @@ public class Splash extends AppCompatActivity {
     }
 
 
-
     @Override
     public void onBackPressed() {
         //back to android home without closing app
